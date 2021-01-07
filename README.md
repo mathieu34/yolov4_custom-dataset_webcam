@@ -8,4 +8,4 @@
 2. Train your model in google colaboratory using [Roboflow models](https://models.roboflow.com/) (*I choose YOLOv4-tiny Colab Notebook*).  
    - The related file is [YOLOv4_tiny_Darknet_Roboflow.ipynb](https://github.com/mathieu34/yolov4_custom-dataset_webcam/blob/master/YOLOv4_tiny_Darknet_Roboflow.ipynb). You get a result like this :  
    
-#![alt text](https://github.com/mathieu34/yolov4_custom-dataset_webcam/blob/master/predictions.jpg?raw=true)
+<!--[alt text](https://github.com/mathieu34/yolov4_custom-dataset_webcam/blob/master/predictions.jpg?raw=true)-->
