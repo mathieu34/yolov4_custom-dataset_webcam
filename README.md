@@ -9,5 +9,5 @@
    - The related file is [YOLOv4_tiny_Darknet_Roboflow.ipynb](https://github.com/mathieu34/yolov4_custom-dataset_webcam/blob/master/YOLOv4_tiny_Darknet_Roboflow.ipynb). You get a result like this :  
    
 <!--[alt text](https://github.com/mathieu34/yolov4_custom-dataset_webcam/blob/master/predictions.jpg?raw=true)-->
-![caption](https://github.com/mathieu34/yolov4_custom-dataset_webcam/blob/master/myface.gif / GIF)
+![caption](https://github.com/mathieu34/yolov4_custom-dataset_webcam/blob/master/myface.gif)
 
