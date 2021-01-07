@@ -11,7 +11,7 @@
 ![alt text](https://github.com/mathieu34/yolov4_custom-dataset_webcam/blob/master/predictions.png?raw=true)
 
 3. Do Webcam real time object detection with the yolov4-tiny model train before. 
-   - The related file is [real_time_detection_webcam.ipynb](https://github.com/mathieu34/yolov4_custom-dataset_webcam/blob/master/real_time_detection_webcam.ipynb) (*Don't forget to convert the .avi video to .gif*). You get a result like this :  
+   - The related file is [real_time_detection_webcam.ipynb](https://github.com/mathieu34/yolov4_custom-dataset_webcam/blob/master/real_time_detection_webcam.ipynb). You get a result like this :  
    
 ![caption](https://github.com/mathieu34/yolov4_custom-dataset_webcam/blob/master/myface.gif)
 
